@@ -1,4 +1,6 @@
-# 🧬 Artificial Organism — Research-Grade Self-Evolving Cognitive Architecture
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/6c3f8946-ecdf-42d4-9efe-e3f987721b2c" />
+
+# 🧬 Artificial Organism — Self-Evolving Cognitive Architecture
 
 A 12-layer cognitive architecture that goes beyond conventional AI systems toward a genuine artificial organism: self-modeling, self-benchmarking, and self-evolving.
 
